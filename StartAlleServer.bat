@@ -1,0 +1,5 @@
+start IslandServer\start_islandserver.bat
+start ScorchedServer\start_scorchedserver.bat
+start RagnarokServer\start_ragnarokserver.bat
+start FjordurServer\start_fjordurserver.bat
+start ValgueroServer\start_valgueroserver.bat
